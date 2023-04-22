@@ -4,4 +4,9 @@
 
 #### Website: https://serafm.me/
 
+##### About Me
+
++ I love data
++ Humor: enjoy making people laugh. Laughter is the best medicine and can make any situation better (but it can't fix bugs).
+
 
