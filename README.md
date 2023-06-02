@@ -6,7 +6,7 @@
 
 ##### About Me
 
-+ I love data
-+ Humor: enjoy making people laugh. Laughter is the best medicine and can make any situation better (but it can't fix bugs).
++ I have a strong interest in Data Analysis and Machine Learning.
++ Humor: enjoy making people laugh.
 
 
