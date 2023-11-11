@@ -7,6 +7,4 @@
 ##### About Me
 
 + I have a strong interest in Data Science and Machine Learning.
-+ Humor: enjoy making people laugh.
-
 
