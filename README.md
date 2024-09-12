@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Junior Software Engineer. Here you'll find a
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Java | Python | C++ | C# | HTML
+- **Languages:** Java | Python | C++ | C# | HTML | TypeScript
 - **Frameworks & Libraries:** .NET | React | Spring Boot | Thymeleaf
 - **Tools & Platforms:** Git | Docker
 - **Databases:** PostgreSQL
