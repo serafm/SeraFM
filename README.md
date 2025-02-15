@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a Junior Software Engineer. Here you'll find a
 
 ## 🌱 Currently Learning
 
-- I am currently working on my diploma thesis, focusing on **Geospatial Data and Indexes in C++**.
+- I am currently working on my [diploma thesis](https://github.com/serafm/rtree_cpp), focusing on **Geospatial Data and Indexes in C++**.
   This project has allowed me to dive deep into topics such as spatial indexing and advanced C++ programming techniques.
 
 ## 💼 Projects
