@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a Junior Software Engineer. Here you'll find a
 
 Here are a few highlights of my work:
 
-- **Course Management Web Application:** Developed a web application that allows an instructor to manage the grading and students of the courses that he teaches.
+- **Course Management Web Application:** Developed a web application for efficient course grading and student management.
 - **Search Engine:** A search engine for articles related to COVID-19.
 - **Top-K Queries:** Implementation of the TopK algorithm for finding the top-k objects based on their scores.
 
