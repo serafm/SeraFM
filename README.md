@@ -1,6 +1,6 @@
 # Hi there, I'm Serafeim. 👋
 
-Welcome to my GitHub profile! I'm a Junior Software Engineer. Here you'll find a collection of my projects, contributions, and some fun side projects I work on in my spare time.
+Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and some fun side projects I work on in my spare time.
 
 ## 🛠️ Technologies & Tools
 
