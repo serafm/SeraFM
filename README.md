@@ -26,7 +26,7 @@ Feel free to explore all my repositories for more!
 
 ## 🪖 Fun Fact
 
-- I am an ex special forces operative, bringing discipline, strategic thinking, and a mission-oriented mindset into everything I do—even in the world of coding and development!
+- I am an ex special forces operative, bringing discipline and a mission-oriented mindset into everything I do—even in the world of coding and development!
 
 Thanks for stopping by! 😊
 
