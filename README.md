@@ -11,9 +11,6 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 
 ## 🌱 Currently Learning
 
-- I am currently working on my [diploma thesis](https://github.com/serafm/rtree_cpp), focusing on **Geospatial Data and Indexes in C++**.
-  This project has allowed me to dive deep into topics such as spatial indexing and advanced C++ programming techniques.
-
 ## 💼 Projects
 
 Here are a few highlights of my work:
@@ -22,6 +19,13 @@ Here are a few highlights of my work:
 - **Search Engine:** A search engine for articles related to COVID-19.
 - **Top-K Queries:** Implementation of the TopK algorithm for finding the top-k objects based on their scores.
 
+## 🎓 Diploma Thesis
+
+I recently completed my [diploma thesis](https://github.com/serafm/rtree_cpp), focusing on **Geospatial Data and Indexes in C++**.  
+The project involved implementing an efficient **R-tree** structure.  
+Its performance was **compared with the R-tree implementation of the Boost library**, highlighting key differences in efficiency and design choices.  
+This work gave me extensive experience in spatial indexing, data structures, and performance optimization using modern C++.
+
 Feel free to explore all my repositories for more!
 
 ## 🪖 Fun Fact
@@ -29,4 +33,3 @@ Feel free to explore all my repositories for more!
 - I am an ex special forces operative, bringing discipline and a mission-oriented mindset into everything I do—even in the world of coding and development!
 
 Thanks for stopping by! 😊
-
